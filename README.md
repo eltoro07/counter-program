@@ -5,4 +5,4 @@ Problems Encountered : - It took me a while to notice the styles.css file link I
                        - I didn't know that label is an inline element so I need to add a display:block for the label to be text-align:center
                        - at the stles.css I used . instead of # for ID
 
-Solution: I have to becareful about my typing and need to study css more.
+Solution: I have to be careful about my typing and need to study css more.
